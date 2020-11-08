@@ -1,0 +1,29 @@
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\ProyectoparcialII\ProyectoparcialII\bin\Debug\ProyectoparcialII.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\ProyectoparcialII\ProyectoparcialII\bin\Debug\ProyectoparcialII.exe
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\ProyectoparcialII\ProyectoparcialII\bin\Debug\ProyectoparcialII.pdb
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\ProyectoparcialII\ProyectoparcialII\bin\Debug\ProyectoparcialII.xml
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\ProyectoparcialII\ProyectoparcialII\obj\Debug\ProyectoparcialII.Administracion.resources
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\ProyectoparcialII\ProyectoparcialII\obj\Debug\ProyectoparcialII.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\ProyectoparcialII\ProyectoparcialII\obj\Debug\ProyectoparcialII.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\ProyectoparcialII\ProyectoparcialII\obj\Debug\ProyectoparcialII.exe
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\ProyectoparcialII\ProyectoparcialII\obj\Debug\ProyectoparcialII.xml
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\ProyectoparcialII\ProyectoparcialII\obj\Debug\ProyectoparcialII.pdb
+C:\Users\Usuario\Desktop\parcialII200216414\ProyectoparcialII\bin\Debug\ProyectoparcialII.exe.config
+C:\Users\Usuario\Desktop\parcialII200216414\ProyectoparcialII\obj\Debug\ProyectoparcialII.exe
+C:\Users\Usuario\Desktop\parcialII200216414\ProyectoparcialII\obj\Debug\ProyectoparcialII.xml
+C:\Users\Usuario\Desktop\parcialII200216414\ProyectoparcialII\obj\Debug\ProyectoparcialII.pdb
+C:\Users\Usuario\Desktop\parcialII200216414\ProyectoparcialII\bin\Debug\ProyectoparcialII.exe
+C:\Users\Usuario\Desktop\parcialII200216414\ProyectoparcialII\bin\Debug\ProyectoparcialII.pdb
+C:\Users\Usuario\Desktop\parcialII200216414\ProyectoparcialII\bin\Debug\ProyectoparcialII.xml
+C:\Users\Usuario\Desktop\parcialII200216414\ProyectoparcialII\obj\Debug\ProyectoparcialII.Administracion.resources
+C:\Users\Usuario\Desktop\parcialII200216414\ProyectoparcialII\obj\Debug\ProyectoparcialII.Resources.resources
+C:\Users\Usuario\Desktop\parcialII200216414\ProyectoparcialII\obj\Debug\ProyectoparcialII.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\parcialII200216414\ProyectoparcialII\bin\Debug\clientes.accdb
+C:\Users\Usuario\Desktop\parcialII200216414\ProyectoparcialII\obj\Debug\ProyectoparcialII.Form2.resources
+C:\Users\Usuario\Desktop\parcialII200216414\ProyectoparcialII\bin\Debug\ProyectoparcialII.exe.manifest
+C:\Users\Usuario\Desktop\parcialII200216414\ProyectoparcialII\bin\Debug\ProyectoparcialII.application
+C:\Users\Usuario\Desktop\parcialII200216414\ProyectoparcialII\obj\Debug\ProyectoparcialII.exe.manifest
+C:\Users\Usuario\Desktop\parcialII200216414\ProyectoparcialII\obj\Debug\ProyectoparcialII.application
+C:\Users\Usuario\Desktop\parcialII200216414\ProyectoparcialII\obj\Debug\ProyectoparcialII.Form3.resources
+C:\Users\Usuario\Desktop\parcialII200216414\ProyectoparcialII\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\parcialII200216414\ProyectoparcialII\obj\Debug\ProyectoparcialII.vbprojResolveAssemblyReference.cache
